@@ -50,14 +50,14 @@ Licensed under the [MIT license](https://github.com/nextui-org/next-app-template
 ## 📺 See on instagram
 
 <p align="center">
-  <a href="https://www.instagram.com/cleandevcod/"">
+  <a href="https://www.instagram.com/cleandevcod/">
   <img src=https://img.shields.io/badge/Profile-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.instagram.com/cleandevcod/"">
+  <a href="https://www.instagram.com/cleandevcod/">
   <img src=https://img.shields.io/badge/This%20Post-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
 </p> 
-  
+
 ## 🤝 Support
 
 <p align="center">
