@@ -43,25 +43,12 @@ Licensed under the [MIT license](https://github.com/nextui-org/next-app-template
 
 | ![Imagen 1](preview/LightMode.png) | ![Imagen 2](preview/DarkMode.png) | ![Imagen 3](preview/Mobile.png) |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
-|    [Light Mode](#enlace-a-titulo-1)    |    [Dark Mode](#enlace-a-titulo-2)    |    [Mobile](#enlace-a-titulo-3)    |
-
-
-
-## 📺 See on instagram
-
-<p align="center">
-  <a href="https://www.instagram.com/cleandevcod/">
-  <img src=https://img.shields.io/badge/Profile-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/cleandevcod/">
-  <img src=https://img.shields.io/badge/This%20Post-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-</p> 
+|    [Light Mode](https://github.com/SantiiD/SaleItem)    |    [Dark Mode](https://github.com/SantiiD/SaleItem)    |    [Mobile](https://github.com/SantiiD/SaleItem)    |
 
 ## 🤝 Support
 
 <p align="center">
-  <a href="https://ko-fi.com/santiagod55" style="text-decoration: none;">
+  <a href="https://ko-fi.com/SantiiD" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white" alt="Kofi" />
   </a>
   <a href="https://patreon.com/user?u=80736594" style="text-decoration: none;">
@@ -76,9 +63,9 @@ If you find this project useful, please consider giving it a ⭐️ on GitHub an
 </p>
 
 <p align="center">
-<b>Last edited:</b> September 8, 2023
+<b>Last edited:</b> September 24, 2023
 </p>
 
 <p align="center">
-© 2023 Santiago Díaz
+© 2023 Santi Díaz
 </p>
