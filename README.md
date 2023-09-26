@@ -43,13 +43,13 @@ Licensed under the [MIT license](https://github.com/nextui-org/next-app-template
 
 | ![Imagen 1](preview/LightMode.png) | ![Imagen 2](preview/DarkMode.png) | ![Imagen 3](preview/Mobile.png) |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
-|    [Light Mode](https://github.com/SantiiD/SaleItem)    |    [Dark Mode](https://github.com/SantiiD/SaleItem)    |    [Mobile](https://github.com/SantiiD/SaleItem)    |
+|    [Light Mode](https://github.com/SantiiDiazSanchez/SaleItem)    |    [Dark Mode](https://github.com/SantiiDiazSanchez/SaleItem)    |    [Mobile](https://github.com/SantiiDiazSanchez/SaleItem)    |
 
 ## 🤝 Support
 
 <div align="center">
 
-  [![Kofi](https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://ko-fi.com/SantiiD)
+  [![Kofi](https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://ko-fi.com/SantiiDiazSanchez)
   [![Patreon](https://img.shields.io/badge/Support%20Me%20on%20Patreon-%23FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white)](https://patreon.com/user?u=80736594)
 
 </div>
@@ -60,7 +60,7 @@ Licensed under the [MIT license](https://github.com/nextui-org/next-app-template
 
 If you find this project useful, please consider giving it a ⭐️ on GitHub and sharing it.
 
-**Last edited:** September 24, 2023
+**Last edited:** September 26, 2023
 
 © 2023 Santi Díaz
 
